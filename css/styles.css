@@ -1,0 +1,16 @@
+div{
+    display:inline-block;
+
+}
+.one{
+
+  height: 105px;
+  width: 350px;
+  background: badge;
+}
+.two{
+
+  height: 105px;
+  width: 350px;
+  background: red;
+}
