@@ -44,6 +44,6 @@ div{
     padding: 100px 20px;
     height: 100%;
 }
-.container{
-  background-image: "assets/backgrounds/foodsBg.jpg"
+containernew{
+  background-image: url("landing.jpg");
 }
